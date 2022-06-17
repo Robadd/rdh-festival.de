@@ -280,16 +280,3 @@ summary {
 .flunky-hits img {
     background-color: white;
 }
-
-.anchor {
-    top: -4em;
-    position: absolute;
-}
-
-section {
-    position: relative;
-}
-
-article {
-    position: relative;
-}
